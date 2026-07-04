@@ -1,0 +1,12 @@
+# Output directories from running the script
+*/
+!.git/
+!.github/
+
+# macOS
+.DS_Store
+
+# Common backups
+*.bak
+*.tmp
+*~
